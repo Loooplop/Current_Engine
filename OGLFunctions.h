@@ -1,0 +1,12 @@
+#pragma once
+#include <stdlib.h>
+#include <cstdio>
+#include <string.h>
+#include <iostream>
+#include <fstream>
+#include <sstream>
+#include <string>
+#include <GL/freeglut.h>
+#include <gl/glew.h>
+#include <vector>
+#include "MathLibrary.h"
